@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Yash Raj Singh👋
 
-<!--
-**yashrajyash/yashrajyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer and a student!!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
+[linkedin]: https://www.linkedin.com/in/yash-raj-singh-33ba871a4
