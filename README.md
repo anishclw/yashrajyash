@@ -1,6 +1,6 @@
 ### Hi there, I'm Yash Raj Singh👋
 
-## I'm a Developer and a student!!
+## I'm a developer and a student!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
