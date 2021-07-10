@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashrajyash](https://github.com/yashrajyash)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Data Structures and Algorithms**
 
 - 📫 How to reach me **yashrajyash18@gmail.com**
 
-- ⚡ Fun fact **I think I am good at competitive coding**
+- ⚡ Fun fact **NASA still uses programs from the 70s in their spacecraft**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
