@@ -1,18 +1,21 @@
 <div align="center">
-  <h1> 𝐇𝐞𝐥𝐥𝐨 Yash here 👋</h1>
+  <h1> 𝐇𝐞𝐥𝐥𝐨 Yash here 👋</h1> 
   <h3 align="center">A curious developer trying to figure out my way through web development & open-source 👩‍💻 </h3>
   <br>
   <img align="right" alt="width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 </div>
 
 <div align="left" font-size:"100 >
-  - 💻 **CS undergrad at MAKAUT.**
+
+  - 💻**CS undergrad at MAKAUT.**
   - 📫 How to reach me **yashrajyash18@gmail.com**
   - 💬 Ask me about **Data Structures and Algorithms**
+  - 🤝 I’m looking for help with **Developers and Like minded people**
   - ⚡ Fun fact **NASA still uses programs from the 70s in their spacecraft**
   - 😀 **Open source enthusiast**
   - 🌱 **Interested in web development**
   - Explore 💥->learn 🗯️->grow ✌️  
+
 </div>
 
 <div align="center">
@@ -22,16 +25,21 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajyash&theme=dracula&show_icons=true" /><br>
   <p align="#center"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajyash&layout=compact&hide=html&theme=dracula&show_icons=true" alt="most used language" /></p>
 
+</div>
+
+<div align=center>
   <br><br>
 
   [![Yash's trophy](https://github-profile-trophy.vercel.app/?username=yashrajyash&theme=onedark&column=4&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<br>
-
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <div align=left>
+
+  <br><br>
+
+  ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
   <p>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -59,8 +67,13 @@
   </p>
 </div>
 
+
 <div align=left>
-  <h2 align="left">Connect with me:</h2>
+
+  <br><br>
+
+  ## Connect with me:
+
   <p>
     <a href="https://www.linkedin.com/in/yash-raj-yash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-raj-yash/" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/16211860/yash-raj-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16211860/yash-raj-singh" height="30" width="40" /></a>
@@ -72,10 +85,17 @@
   </p>
 </div>
 
-### Just tryingg to be consistent here, so that the snake would get more to eat 🐍 </h2>
 
-![Yash's snake gif](https://github.com/yashrajyash/yashrajyash/blob/output/github-contribution-grid-snake.gif)
+<div align=center>
 
-<br>
+  <br><br>
 
-[![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashrajyash&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+  ## Just tryingg to be consistent here, so that the snake would get more to eat 🐍 </h2>
+
+  ![Yash's snake gif](https://github.com/yashrajyash/yashrajyash/blob/output/github-contribution-grid-snake.gif)
+
+  <br>
+
+  [![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashrajyash&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
