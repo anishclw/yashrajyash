@@ -6,6 +6,8 @@
 </div>
 
 <div align="left" font-size:"100 >
+  
+  <br><br>
 
   - 💻**CS undergrad at MAKAUT.**
   - 📫 How to reach me **yashrajyash18@gmail.com**
