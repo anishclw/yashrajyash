@@ -2,12 +2,12 @@
   <h1> 𝐇𝐞𝐥𝐥𝐨 Yash here 👋</h1> 
   <h3 align="center">A curious developer trying to figure out my way through web development & open-source 👩‍💻 </h3>
   <br>
-  <img align="right" alt="width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
+  <img align="right" alt="width="350" style="margin-bottom: 100px;" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 </div>
 
 <div align="left" font-size:"100 >
   
-  <br><br>
+  <br>
 
   - 💻**CS undergrad at MAKAUT.**
   - 📫 How to reach me **yashrajyash18@gmail.com**
